@@ -1,0 +1,8 @@
+@font-face {
+    font-family: myQuickFont;
+    src: url(quickFont.ttf);
+}
+
+#setFont{
+    font-family: myQuickFont;
+}
